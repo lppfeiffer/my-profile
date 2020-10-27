@@ -1,0 +1,60 @@
+*{margin:15;
+padding: 20;
+color: white;
+border: thick;
+}
+body{background-image:url(https://cdn.wallpapersafari.com/88/76/z5rFhY.jpg);background-size: cover;
+font-family: 'Turret Road', cursive;
+text-align: center;}
+h1{color: #39FF14;
+font-weight: 1000;
+font-size: 80px
+text-align: center; }
+h2{color: #39FF14}
+p{color:#39FF14;}
+li{color: #39FF14}
+a{color: #39FF14; text-decoration: none;}
+a:hover {color:red;}
+
+button {background-color: transparent;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+div{width: 300px;
+	margin: auto;
+	margin-bottom: 10px;
+	background:transparent;
+padding: 10px;
+border: 1px;
+border-style: solid;
+border-color:#39FF14;
+border-radius: 5px;
+border-spacing: 30px}
+
+iframe{position: center}
+
+.img-circle{box-shadow:3px 3px 3px #39FF14; 
+	border-radius: 50%;}
+
+.btn-green{background-color:#39FF14;
+ color: black;
+ padding: 20px;
+ border-radius: 5px;
+width: 200px; 
+position: center; 
+margin-bottom: 50px; 
+margin-top: 50px;}
+
+.btn-green:hover{background-color:red;
+ color: black}
+
+
+.list-inline{list-style: none;padding-left:0px;}
+.list-inline li{display: inline;
+padding: 10px}
